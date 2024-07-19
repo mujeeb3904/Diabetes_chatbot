@@ -19,7 +19,7 @@ The Diabetes Chatbot is an AI-driven tool designed to assist individuals with di
 - **Chainlit:** Web framework used for UI.
 - 
 ### Model Information
-Model Name: Llama-2-7b-chat.ggmlv3.q4_0.bin
+Model Name: ``` Llama-2-7b-chat.ggmlv3.q4_0.bin```
 Description: This is a pre-trained conversational model used to power the chatbot. It is optimized for dialogue and understanding user queries.
 
 ### Installation
